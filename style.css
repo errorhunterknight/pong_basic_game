@@ -1,0 +1,15 @@
+body {
+    background: #e0afaf;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    margin: 0;
+}
+
+#pongCanvas {
+    background: #a3f46a;
+    display: block;
+    box-shadow: 0 0 16px #e80e0e;
+    border-radius: 8px;
+}
